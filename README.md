@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="#overview">CONTEXTE</a> 
-  <a href="#competences">COMPETENCES CLES</a> 
-  <a href="#architecture">APPROCHE MÉTHODOLOGIQUE</a> 
-  <a href="#demo">DÉMO</a> 
-  <a href="#support">REMARQUES</a> 
+  <a href="#overview">CONTEXTE</a>●
+  <a href="#competences">COMPETENCES CLES</a>●
+  <a href="#architecture">APPROCHE MÉTHODOLOGIQUE</a>●
+  <a href="#demo">DÉMO</a>●
+  <a href="#support">REMARQUES</a>●
   <a href="#license">LICENCE</a>
 </p>
 
@@ -21,10 +21,10 @@
 
 Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2021 dans les pays ci-après  :
 
-# Côte d'Ivoire  - Mon second pays d'acceuil en Afrique
-# France         - Mon pays d'implantation 
-# Afrique du Sud - Le Pays dans lequel j'aimerais bien passer ma retraite
-# Allemagne      - Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle
+● Côte d'Ivoire  - Mon second pays d'acceuil en Afrique
+● France         - Mon pays d'implantation 
+● Afrique du Sud - Le Pays dans lequel j'aimerais bien passer ma retraite
+● Allemagne      - Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle
 
 Le résultat ainsi que les informations clés obtenues sont présentés à l'aide de l'outil de visualisation Microsoft Power BI.
 
