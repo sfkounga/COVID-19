@@ -40,9 +40,9 @@ Analyse COVID-19 <br>
 **01_SOURCE**</br>
 Ce répertoire contient les données brutes téléchargées du site www.kaggle.com qui doivent être nettoyées et organisées pour faciliter le processus d'analyse et de visualisation des données.
 
-Le dataset (jeu de données) COVID-19.csv contient l'ensemble des informations liées au taux d'infection et taux de mortalité des personnes atteintes du COVID-19 pour la période 15/02/2020 - 14/05/2022.
+Le dataset (jeu de données) [COVID-19.csv][website_link1] contient l'ensemble des informations liées au taux d'infection et taux de mortalité des personnes atteintes du COVID-19 pour la période 15/02/2020 - 14/05/2022.
 
-Le dataset Temperature.csv contient les données météorologiques historiques quotidiennes enregistrées pour 194 capitales de pays pour la période 01/01/2018 - 11/10/2022. 
+Le dataset [Temperature.csv][website_link2] contient les données météorologiques historiques quotidiennes enregistrées pour 194 capitales de pays pour la période 01/01/2018 - 11/10/2022. 
 
 Les périodes couvertes par ces données étant différentes, j'ai trouvé qu'il serait pertinent de mener l'analyse sur la période couverte par les deux jeux de données, c'est-à-dire : 15/02/2020 - 14/05/202 
 
