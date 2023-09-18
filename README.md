@@ -18,8 +18,7 @@
   <a href="#license">LICENCE</a>
 </p>
 
-## CONTEXTE
-
+## CONTEXTE</br>
 Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2021 dans les pays ci-après  :
 
  • Côte d'Ivoire  - Mon second pays d'acceuil en Afrique<br>
@@ -38,8 +37,7 @@ Analyse COVID-19 <br>
  └───04_RESSOURCES<br>
 
 
-**01_SOURCE**
-
+**01_SOURCE**</br>
 Ce répertoire contient les données brutes téléchargées du site www.kaggle.com qui doivent être nettoyées et organisées pour faciliter le processus d'analyse et de visualisation des données.
 
 Le dataset (jeu de données) COVID-19.csv contient l'ensemble des informations liées au taux d'infection et taux de mortalité des personnes atteintes du COVID-19 pour la période 15/02/2020 - 14/05/2022.
@@ -49,24 +47,20 @@ Le dataset Temperature.csv contient les données météorologiques historiques q
 Les périodes couvertes par ces données étant différentes, j'ai trouvé qu'il serait pertinent de mener l'analyse sur la période couverte par les deux jeux de données, c'est-à-dire : 15/02/2020 - 14/05/202 
 
 
-**02_ETL**
-
+**02_ETL**</br>
 Ce répertoire contient les scripts ETL présentant les différentes transformations opérées sur l'ensemble de données brutes chargées en entrée.
 
 
-**03_DASHBOARD**
-
+**03_DASHBOARD**</br>
 Ce répertoire contient le fichier de visualisation (.PBIX) du rapport Power BI.
 
 
-**04_RESSOURCES**
-
+**04_RESSOURCES**</br>
 Ce répertoire contient des images, des icônes, etc. utilisées dans ce projet.
 
 
 
-## COMPETENCES CLES
-
+## COMPETENCES CLES</br>
 Mes principales compétences mises en application dans ce projet sont les suivantes:
 
 - Power BI
@@ -78,8 +72,7 @@ Mes principales compétences mises en application dans ce projet sont les suivan
 
 
 
-## APPROCHE MÉTHODOLOGIQUE
-
+## APPROCHE MÉTHODOLOGIQUE</br>
 L'architecture du projet est assez simple (et alignée aux processus standards d'analyse de données) et peut être expliquée par l'image ci-dessous :
 
 ![Process Architecture][process_workflow]
@@ -94,12 +87,11 @@ Le rapport a enfin été publié sur le Service Power BI, afin de le partager av
 
 
 
-## LES 05 INFORMATIONS CLÉS À RETENIR
+## LES 05 INFORMATIONS CLÉS À RETENIR</br>
 
 
 
-## DÉMO
-
+## DÉMO</br>
 Le tableau de bord interactif Power BI peut être consulté en cliquant sur l'image ci-après:
 Une fois que vous cliquez dessus, l'utilisateur est redirigé vers le rapport dynamique publié sur le service Power BI contenant un ensemble de fonctionnalités avancées (slicers, filtres croisés, histogramme, etc.) avec lesquelles il peut interagir pour visualiser une facette spécifique des données ou pour obtenir des informations supplémentaires.
 
@@ -107,8 +99,7 @@ Une fois que vous cliquez dessus, l'utilisateur est redirigé vers le rapport dy
 
 
 
-## REMARQUES
-
+## REMARQUES</br>
 Pour toute(s) question(s) ou suggestion(s), n'hésitez pas à me contacter sur :
 [![Linkedin Badge][linkedinbadge]][linkedin] ou par eMail sf.kounga@gmail.com
 
