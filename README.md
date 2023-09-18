@@ -38,6 +38,7 @@ Analyse COVID-19 <br>
 
 
 **01_SOURCE**
+
 Ce répertoire contient les données brutes téléchargées du site www.kaggle.com qui doivent être nettoyées et organisées pour faciliter le processus d'analyse et de visualisation des données.
 
 Le dataset (jeu de données) COVID-19.csv contient l'ensemble des informations liées au taux d'infection et taux de mortalité des personnes atteintes du COVID-19 pour la période 15/02/2020 - 14/05/2022.
@@ -48,14 +49,17 @@ Les périodes couvertes par ces données étant différentes, j'ai trouvé qu'il
 
 
 **02_ETL**
+
 Ce répertoire contient les scripts ETL présentant les différentes transformations opérées sur l'ensemble de données brutes chargées en entrée.
 
 
 **03_DASHBOARD**
+
 Ce répertoire contient le fichier de visualisation (.PBIX) du rapport Power BI.
 
 
 **04_RESSOURCES**
+
 Ce répertoire contient des images, des icônes, etc. utilisées dans ce projet.
 
 
