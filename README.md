@@ -102,7 +102,7 @@ Une fois que vous cliquez dessus, l'utilisateur est redirigé vers le rapport dy
 
 ## REMARQUES</br>
 Pour toute(s) question(s) ou suggestion(s), n'hésitez pas à me contacter sur :
-mon profil ![linkedin][LinkedIn] ou via mon eMail: sf.kounga@gmail.com
+mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
 
 
 
