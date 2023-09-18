@@ -18,7 +18,7 @@
   <a href="#license">LICENCE</a>
 </p>
 
-## <p><font color="#0000FF"> CONTEXTE </font></p> </br>
+<p><font color="#0000FF"> ## CONTEXTE </font></p> </br>
 Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2021 dans les pays ci-après  :
 
  • Côte d'Ivoire  - Mon second pays d'acceuil en Afrique<br>
