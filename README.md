@@ -50,7 +50,7 @@ Les périodes couvertes par ces données étant différentes, j'ai trouvé qu'il
 
 
 **02_ETL**</br>
-Ce répertoire contient les scripts ETL présentant les différentes transformations opérées sur l'ensemble de données brutes chargées en entrée.
+Ce répertoire contient les scripts DAX utilisés lors de la phase ETL pour les différentes transformations opérées sur l'ensemble de données brutes chargées en entrée.
 
 
 **03_DASHBOARD** </br>
@@ -64,7 +64,6 @@ Ce répertoire contient des images, des icônes, etc. utilisées dans ce projet.
 
 ## COMPETENCES CLES</br>
 Mes principales compétences mises en application dans ce projet sont les suivantes:
-
 - Power BI
 - Processus ETL (Extraction, Transformation, Load)
 - Langage DAX
