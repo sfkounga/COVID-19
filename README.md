@@ -28,9 +28,10 @@ Ce projet met en exergue une analyse exploratoire des données relative à une r
  • Côte d'Ivoire  - Mon second pays d'acceuil en Afrique<br>
  • France         - Mon pays d'implantation <br>
 
-Le résultat ainsi que les informations clés obtenues sont présentés à l'aide de l'outil de visualisation Microsoft Power BI.
+Le livrable clé de ce projet est le tableau de bord (élaboré à l'aide de l'outil Microsoft Power BI) présenté dans la section "DÉMO".
+Un résumé d'informations jugées clés est tout aussi présenté dans la section "LES 05 INFORMATIONS CLÉS À RETENIR".
 
-Ce Projet est structuré de la manière suivante :
+le dossier de ce Projet est structuré de la manière suivante :
 
 Analyse COVID-19 <br>
  ├───01_SOURCE<br>
@@ -58,7 +59,7 @@ Ce répertoire contient le fichier de visualisation (.PBIX) du rapport Power BI.
 
 
 **04_RESSOURCES** </br>
-Ce répertoire contient des images, des icônes, etc. utilisées dans ce projet.
+Ce répertoire contient des images et icônes, etc. utilisées au sein de ce projet.
 
 
 
@@ -130,9 +131,3 @@ mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
 
 <!-- Shields Profile Links -->
 
-[linkedinbadge]:
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/serge-kounga-a26365161”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
