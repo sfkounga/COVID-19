@@ -18,7 +18,7 @@
   <a href="#license">LICENCE</a>
 </p>
 
-## <p style="color:#FF0000"> CONTEXTE </p> </br>
+## CONTEXTE </br>
 Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2021 dans les pays ci-après  :
 
  • Côte d'Ivoire  - Mon second pays d'acceuil en Afrique<br>
@@ -51,11 +51,11 @@ Les périodes couvertes par ces données étant différentes, j'ai trouvé qu'il
 Ce répertoire contient les scripts ETL présentant les différentes transformations opérées sur l'ensemble de données brutes chargées en entrée.
 
 
-**03_DASHBOARD**</br>
+**03_DASHBOARD** </br>
 Ce répertoire contient le fichier de visualisation (.PBIX) du rapport Power BI.
 
 
-**04_RESSOURCES**</br>
+**04_RESSOURCES** </br>
 Ce répertoire contient des images, des icônes, etc. utilisées dans ce projet.
 
 
