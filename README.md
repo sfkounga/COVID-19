@@ -102,7 +102,7 @@ Une fois que vous cliquez dessus, l'utilisateur est redirigé vers le rapport dy
 
 ## REMARQUES</br>
 Pour toute(s) question(s) ou suggestion(s), n'hésitez pas à me contacter sur :
-<a href=”https://www.linkedin.com/in/serge-kounga-a26365161”>LinkedIn</a> ou par eMail sf.kounga@gmail.com
+mon profil ![linkedin][LinkedIn] ou via mon eMail: sf.kounga@gmail.com
 
 
 
