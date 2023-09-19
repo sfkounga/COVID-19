@@ -22,8 +22,22 @@
 Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2021 dans les pays ci-après  :
 
 
+<table>
+  <tr>
+    <td>• Trinité-et-Tobago</td>
+    <td>Allemagne</td>
+    <td>Côte d'Ivoire</td>
+    <td>France</td>
+  </tr>
+  <tr>
+    <td>Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances</td>
+    <td>Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle</td>
+    <td>Mon second pays d'acceuil en Afrique</td>
+    <td>Mon pays de résidence</td>
+  </tr>
+</table>
 
- • Trinité-et-Tobago : Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances. <br>
+ • Trinité-et-Tobago : Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances <br>
  • Allemagne         : Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle<br>
  • Côte d'Ivoire     : Mon second pays d'acceuil en Afrique<br>
  • France            : Mon pays de résidence <br>
