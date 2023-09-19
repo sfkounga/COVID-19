@@ -23,10 +23,10 @@ Ce projet met en exergue une analyse exploratoire des données relative à une r
 
 
 
- • Trinité-et-Tobago - Après leur passage au Mondial 2006, c'est l'un des Pays dans lequel j'aimerais bien passer des vacances. <br>
- • Allemagne      - Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle<br>
- • Côte d'Ivoire  - Mon second pays d'acceuil en Afrique<br>
- • France         - Mon pays d'implantation <br>
+ • Trinité-et-Tobago : Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances. <br>
+ • Allemagne         : Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle<br>
+ • Côte d'Ivoire     : Mon second pays d'acceuil en Afrique<br>
+ • France            : Mon pays de résidence <br>
 
 Le livrable clé de ce projet est le tableau de bord (élaboré à l'aide de l'outil Microsoft Power BI) présenté dans la section "DÉMO".
 Un résumé d'informations jugées clés est tout aussi présenté dans la section "LES 05 INFORMATIONS CLÉS À RETENIR".
