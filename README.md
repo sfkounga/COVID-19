@@ -23,7 +23,7 @@ Ce projet met en exergue une analyse exploratoire des données relative à une r
 
 
 
- • Afrique du Sud - Le Pays dans lequel j'aimerais bien passer ma retraite<br>
+ • Trinité-et-Tobago - Après leur passage au Mondial 2006, c'est l'un des Pays dans lequel j'aimerais bien passer des vacances. <br>
  • Allemagne      - Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle<br>
  • Côte d'Ivoire  - Mon second pays d'acceuil en Afrique<br>
  • France         - Mon pays d'implantation <br>
