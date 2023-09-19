@@ -24,6 +24,25 @@ Ce projet met en exergue une analyse exploratoire des données relative à une r
 
 <table>
   <tr>
+    <td>• Allemagne</td>
+    <td>Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle</td>
+  </tr>
+  <tr>
+    <td>• Côte d'Ivoire</td>
+    <td>Mon second pays d'acceuil en Afrique</td>
+  </tr>
+  <tr>
+    <td>• France</td> 
+    <td>Mon pays de résidence</td>
+  </tr>
+  <tr>
+    <td>• Trinité-et-Tobago</td>
+    <td>Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>• Trinité-et-Tobago</td>
     <td>Allemagne</td>
     <td>Côte d'Ivoire</td>
