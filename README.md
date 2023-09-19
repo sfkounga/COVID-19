@@ -19,47 +19,28 @@
 </p>
 
 ## CONTEXTE </br>
-Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2021 dans les pays ci-après  :
+Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2021 dans les 04 pays ci-après  :
 
 
 <table>
   <tr>
-    <td>• Allemagne</td>
+    <td>1• Allemagne</td>
     <td>Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle</td>
   </tr>
   <tr>
-    <td>• Côte d'Ivoire</td>
+    <td>2• Côte d'Ivoire</td>
     <td>Mon second pays d'acceuil en Afrique</td>
   </tr>
   <tr>
-    <td>• France</td> 
+    <td>3• France</td> 
     <td>Mon pays de résidence</td>
   </tr>
   <tr>
-    <td>• Trinité-et-Tobago</td>
+    <td>4• Trinité-et-Tobago</td>
     <td>Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances</td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>• Trinité-et-Tobago</td>
-    <td>Allemagne</td>
-    <td>Côte d'Ivoire</td>
-    <td>France</td>
-  </tr>
-  <tr>
-    <td>Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances</td>
-    <td>Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle</td>
-    <td>Mon second pays d'acceuil en Afrique</td>
-    <td>Mon pays de résidence</td>
-  </tr>
-</table>
-
- • Trinité-et-Tobago : Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances <br>
- • Allemagne         : Le pays dans lequel j'ai étudié et demarré ma carrière professionnelle<br>
- • Côte d'Ivoire     : Mon second pays d'acceuil en Afrique<br>
- • France            : Mon pays de résidence <br>
 
 Le livrable clé de ce projet est le tableau de bord (élaboré à l'aide de l'outil Microsoft Power BI) présenté dans la section "DÉMO".
 Un résumé d'informations jugées clés est tout aussi présenté dans la section "LES 05 INFORMATIONS CLÉS À RETENIR".
