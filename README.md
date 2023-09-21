@@ -17,7 +17,7 @@
   <a href="#RÉSUMÉ">RÉSUMÉ</a> •
   <a href="#DÉMO">DÉMO</a> •
   <a href="#REMARQUES">REMARQUES</a> •
-  <a href="#license">LICENCE</a>
+  <a href="#LICENCE">LICENCE</a>
 </p>
 
 ## CONTEXTE </br>
