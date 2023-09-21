@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%" height="50%" > 
-      <img src= "![Project Logo][project_logo]">
+      <img src= "04_RESSOURCES/Project_Logo.png">
     <td> 
   </tr>
 </table>
