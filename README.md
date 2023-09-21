@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="50%" height="50%" align ="Center" border="0"> 
+    <td width="50%" height="50%" align ="Center" border="white"> 
       <img src= "04_RESSOURCES/Project_Logo.png">
     </td> 
   </tr>
