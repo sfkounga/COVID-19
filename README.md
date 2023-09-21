@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="30%" height="30% > 
+    <td width="50%" height="50%" > 
       <img src= "![Project Logo][project_logo]">
     <td> 
   </tr>
