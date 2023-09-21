@@ -70,16 +70,16 @@ Les périodes couvertes par ces données étant différentes, j'ai trouvé qu'il
 Ce répertoire contient les scripts DAX utilisés lors de la phase ETL pour les différentes transformations opérées sur l'ensemble de données brutes chargées en entrée.
 
 
-**03_DASHBOARD** </br>
+**03_DASHBOARD**</br>
 Ce répertoire contient le fichier de visualisation (.PBIX) du rapport Power BI.
 
 
-**04_RESSOURCES** </br>
+**04_RESSOURCES**</br>
 Ce répertoire contient des images et icônes, etc. utilisées au sein de ce projet.
 
 
 
-## COMPETENCES </br>
+## COMPETENCES</br>
 Mes principales compétences mises en application dans ce projet sont les suivantes:
 - Power BI
 - Processus ETL (Extraction, Transformation, Load)
@@ -105,7 +105,7 @@ Le rapport a enfin été publié sur le Service Power BI, afin de le partager av
 
 
 
-## Top5</br>
+## RÉSUMÉ</br>
 KPI N° 1. : L'année 2022 est celle ayant eu le nombre total le plus élevé de cas d'infection au COVD-19 et l'année 2021 celle ayant eu le nombre total le plus élevé de cas décès suite à cette infection.
 KPI N° 2. : Les pics de décès sont constatés pendant les périodes 02/2020 - 04/2020, 11/2020 - 06/2021, et 11/2021 - 04/2022. Le pic pour les cas d'infection est constaté pendant la période 12/2020 - 04/2021, 11/2020 - 06/2021, et 11/2021 - 04/2021.
 KPI N° 3. : Sur l'ensemble des 55 Mio. de cas d'infection analysés les pays (Allemagne, France) de la zone tempérée représente 99% des cas contre 1% pour les pays (Côte d'ivoire, Trinité-et-Tobago) en zone tropicale. Par contre le taux de décès pour les pays Allemagne, France, Côte d'ivoire, Trinité-et-Tobago sotn respectivement de 0,5%, 1%, 0,5% et 2,5%. Soit un intervalle [0,5% - 2,5%].  
