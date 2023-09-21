@@ -1,8 +1,8 @@
 <table>
   <tr>
-    <td width="100%" height="50%" align ="Center" border="0"> 
+    <td width="50%" height="50%" align ="Center" border="0"> 
       <img src= "04_RESSOURCES/Project_Logo.png">
-    <td> 
+    </td> 
   </tr>
 </table>
 
