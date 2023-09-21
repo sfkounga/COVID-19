@@ -1,12 +1,10 @@
-<table>
+<table border= none>
   <tr>
     <td width="30%" height="30% > 
-      <img src= "![Project Logo][project_logo]">
       <img src= "04_RESSOURCES/Project_Logo.png">
     <td> 
   </tr>
 </table>
----
 
 <h4 align="center">Analyse comparative et visualisation du taux d'infection et de mortalité liés au COVID-19</br>
   en Afrique du Sud, en Allemagne, en Côte d'ivoire et en France avec l'outil <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank">Power BI</a></h4>
