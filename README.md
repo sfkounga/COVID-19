@@ -6,7 +6,7 @@
   en Afrique du Sud, en Allemagne, en Côte d'ivoire et en France avec l'outil <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank">Power BI</a></h4>
 
 <p align='center'>
-<img src='04_RESSOURCES/The_Marathon.png' width=30% height=30% >
+<img src='04_RESSOURCES/The_VictoryLap.png' width=30% height=30% >
 </p>
 
 <p align="center">
