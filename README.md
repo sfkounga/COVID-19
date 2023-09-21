@@ -1,5 +1,10 @@
-![Project Logo][project_logo]
-
+<table>
+  <tr>
+    <td width="30%" height="30% > 
+      ![Project Logo][project_logo]
+    <td> 
+  </tr>
+</table>
 ---
 
 <h4 align="center">Analyse comparative et visualisation du taux d'infection et de mortalité liés au COVID-19</br>
