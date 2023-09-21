@@ -9,16 +9,14 @@
 <h4 align="center">Analyse comparative et visualisation du taux d'infection et de mortalité liés au COVID-19</br>
   en Afrique du Sud, en Allemagne, en Côte d'ivoire et en France avec l'outil <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank">Power BI</a></h4>
 
-<p align='center'>
-<img src='04_RESSOURCES/The_VictoryLap.png' width=30% height=30% >
-</p>
 
 <p align="center">
-  <a href="#overview">CONTEXTE</a> •
-  <a href="#competences">COMPETENCES CLES</a> •
-  <a href="#architecture">APPROCHE MÉTHODOLOGIQUE</a> •
-  <a href="#demo">DÉMO</a> •
-  <a href="#support">REMARQUES</a> •
+  <a href="#CONTEXTE">CONTEXTE</a> •
+  <a href="#COMPETENCES">COMPETENCES</a> •
+  <a href="#MÉTHODOLOGIE">MÉTHODOLOGIE</a> •
+  <a href="#RÉSUMÉ">RÉSUMÉ</a> •
+  <a href="#DÉMO">DÉMO</a> •
+  <a href="#REMARQUES">REMARQUES</a> •
   <a href="#license">LICENCE</a>
 </p>
 
@@ -81,7 +79,7 @@ Ce répertoire contient des images et icônes, etc. utilisées au sein de ce pro
 
 
 
-## COMPETENCES CLES</br>
+## COMPETENCES </br>
 Mes principales compétences mises en application dans ce projet sont les suivantes:
 - Power BI
 - Processus ETL (Extraction, Transformation, Load)
@@ -92,7 +90,7 @@ Mes principales compétences mises en application dans ce projet sont les suivan
 
 
 
-## APPROCHE MÉTHODOLOGIQUE</br>
+## MÉTHODOLOGIE</br>
 L'architecture du projet est assez simple (et alignée aux processus standards d'analyse de données) et peut être expliquée par l'image ci-dessous :
 
 ![Process Architecture][process_workflow]
@@ -147,5 +145,7 @@ mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
 [linkedin]: https://www.linkedin.com/in/serge-kounga-a26365161
 [dashboard_link]: 
 
-<!-- Shields Profile Links -->
+<p align='center'>
+<img src='04_RESSOURCES/The_VictoryLap.png' width=30% height=30% >
+</p>
 
