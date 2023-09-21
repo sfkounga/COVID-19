@@ -116,8 +116,11 @@ KPI N° 4. : il existe une laison forte entre les cas d'infection COVID-19 et la
 Le tableau de bord interactif Power BI peut être consulté en cliquant sur l'image ci-après:
 Une fois que vous cliquez dessus, l'utilisateur est redirigé vers le rapport dynamique publié sur le service Power BI contenant un ensemble de fonctionnalités avancées (slicers, filtres croisés, histogramme, etc.) avec lesquelles il peut interagir pour visualiser une facette spécifique des données ou pour obtenir des informations supplémentaires.
 
-<img src ="04_RESSOURCES/dashboard_image.png"> <a href="https://app.powerbi.com/groups/afba251d-b85a-4e6e-90d6-a85e6904a433/reports/50e63a62-5204-467d-8e1e-ab5baf7adf21?ctid=ac503ea8-a132-4217-b56f-df662335adde&pbi_source=linkShare"> </a>
+<a href="https://app.powerbi.com/groups/afba251d-b85a-4e6e-90d6-a85e6904a433/reports/50e63a62-5204-467d-8e1e-ab5baf7adf21?ctid=ac503ea8-a132-4217-b56f-df662335adde&pbi_source=linkShare">
+<img src ="04_RESSOURCES/dashboard_image.png">
 </img>
+</a>
+
 
 ## REMARQUES</br>
 Pour toute(s) question(s) ou suggestion(s), n'hésitez pas à me contacter sur :
