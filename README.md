@@ -1,6 +1,6 @@
-<table>
+<table align ="Center">
   <tr>
-    <td width="400" height="200" align ="Center" CELLSPACING="0" et BORDER="1"> 
+    <td width="400" height="200"  CELLSPACING="0" et BORDER="1"> 
       <img src= "04_RESSOURCES/Project_Logo.png">
     </td> 
   </tr>
