@@ -71,7 +71,7 @@ Ce répertoire contient les scripts DAX utilisés lors de la phase ETL pour les 
 
 
 **03_DASHBOARD**</br>
-Ce répertoire contient la capture écran du rapport de visualisation Power BI.
+Ce répertoire contient les captures écran du rapport de visualisation Power BI. Cette option a été préconisée pour les utilisateurs ne pouvant pas visualiser de manière interactive l'ensemble des rapports et dsahboards contenus dans le fichier PBIX.
 
 
 **04_RESSOURCES**</br>
