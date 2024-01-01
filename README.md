@@ -39,7 +39,7 @@ Ce projet met en exergue une analyse exploratoire des données relative à une r
   </tr>
   <tr>
     <td>4• Trinité-et-Tobago</td>
-    <td>Après leur passage au Mondial 2006, c'est l'un des pays dans lequel j'aimerais bien passer des vacances</td>
+    <td>J'ai été fasciné par leur esprit de compétivité lors de leur passage remarquable au Mondial 2006. Faisant ainsi partie d'un des pays dans lequel j'aimerais bien visiter pour me frotter aux valeurs ainsi qu'aux réalités locales de la population.</td>
   </tr>
 </table>
 
