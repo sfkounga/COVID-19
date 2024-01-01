@@ -136,7 +136,7 @@ mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
 <!-- Image Links -->
 
 [project_logo]: 04_RESSOURCES/Project_Logo.png
-[process_workflow]: 04_RESSOURCES/Approche_Méthodo.png
+[process_workflow]: 04_RESSOURCES/Approche_Méthodo_2.png
 [dashboard_image]: 04_RESSOURCES/dashboard_image.png
 
 <!-- External Links -->
