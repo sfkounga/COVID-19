@@ -21,7 +21,7 @@
 </p>
 
 ## CONTEXTE </br>
-Ce projet met en exergue une analyse exploratoire des données relative à une revue comparative du taux d'infection et du taux de mortalité liés au COVID-19 pour la période 2018 - 2022 dans les 04 pays ci-après  :
+Ce projet met en exergue une analyse exploratoire des données relatives au taux d'infection et au taux de mortalité en lien avec la pandémie mobiale COVID-19 pour la période 2018 - 2022 dans les 04 pays ci-après  :
 
 
 <table>
