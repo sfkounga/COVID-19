@@ -106,7 +106,8 @@ Le rapport a enfin été publié sur le Service Power BI, afin de le partager av
 
 
 ## RÉSUMÉ</br>
-• KPI N° 1. : L'année 2022 est celle ayant eu le nombre total le plus élevé de cas d'infection au COVD-19 et l'année 2021 celle ayant eu le nombre total le plus élevé de cas décès suite à cette infection.</br></br> 
+• KPI N° 1. : L'année 2022 est celle ayant eu le nombre total le plus élevé de cas d'infection au COVD-19 et l'année 2021 celle ayant eu le nombre total le plus élevé de cas décès suite à cette infection.</br>
+[KPI_01]</br> 
 • KPI N° 2. : Les pics de décès sont constatés pendant les périodes 02/2020 - 04/2020, 11/2020 - 06/2021, et 11/2021 - 04/2022. Le pic pour les cas d'infection est constaté pendant la période 12/2020 - 04/2021, 11/2020 - 06/2021, et 11/2021 - 04/2021.</br></br> 
 • KPI N° 3. : Sur l'ensemble des 55 Mio. de cas d'infection analysés les pays (Allemagne, France) de la zone tempérée représente 99% des cas contre 1% pour les pays (Côte d'ivoire, Trinité-et-Tobago) en zone tropicale. Par contre le taux de décès pour les pays Allemagne, France, Côte d'ivoire, Trinité-et-Tobago sotn respectivement de 0,5%, 1%, 0,5% et 2,5%. Soit un intervalle [0,5% - 2,5%]. </br> </br> 
 • KPI N° 4. : il existe une laison forte entre les cas d'infection COVID-19 et la températuire à laquelle la population en Allemagne et en France est généralement exposée. </br>
@@ -138,7 +139,11 @@ mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
 [project_logo]: 04_RESSOURCES/Project_Logo.png
 [process_workflow]: 04_RESSOURCES/Approche_Méthodo_2.png
 [dashboard_image]: 04_RESSOURCES/dashboard_image.png
-
+[Index]: 03_DASHBOARD/PAGE_01_INDEX.png
+[KPI_01]: 03_DASHBOARD/PAGE_02_KPI_01.png 
+[KPI_02]: 03_DASHBOARD/PAGE_03_KPI_02.png 
+[KPI_03]: 03_DASHBOARD/PAGE_04_KPI_03.png 
+[KPI_04]: 03_DASHBOARD/PAGE_05_KPI_04.png 
 <!-- External Links -->
 
 [website_link1]: https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset?select=worldometer_coronavirus_daily_data.csv
