@@ -87,7 +87,7 @@ Mes principales compétences mises en application dans ce projet sont les suivan
 - Data Analysis
 - Data Visualization
 - Story Telling 
-
+- Excel
 
 
 ## MÉTHODOLOGIE</br>
