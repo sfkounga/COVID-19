@@ -1,4 +1,6 @@
-<link href="https://fonts.cdnfonts.com/css/tw-cen-mt" rel="stylesheet">
+<style>
+                            @import url('https://fonts.cdnfonts.com/css/tw-cen-mt-std');
+            
                 
 <table align ="Center">
   <tr>
@@ -172,3 +174,4 @@ mon profil [LinkedIn][linkedin] ou via mon eMail: sf.kounga@gmail.com
 <img src='04_RESSOURCES/The_VictoryLap.png' width=30% height=30% >
 </p>
 
+  </style>
